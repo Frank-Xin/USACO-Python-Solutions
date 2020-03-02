@@ -1,3 +1,3 @@
 USACO Python Solutions
 
-Solutions pass all 10 test cases
+All solutions pass all test cases
