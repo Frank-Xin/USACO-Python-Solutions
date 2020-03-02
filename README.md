@@ -1,4 +1,4 @@
-# USACO Python Solutions
+# USA Computing Olympiad Python Solutions
 
 **All solutions pass every test case**
 
