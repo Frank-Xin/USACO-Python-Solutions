@@ -1,7 +1,7 @@
 # USA Computing Olympiad Python Solutions
 
-**All solutions pass every test case**
+**Solutions pass all test cases**
 
-It is difficult to find Python solutions for competitive programming contests like USACO, so I hope this can help. Feel free to give feedback on my solutions!
+It is difficult to find Python solutions for USACO, so I hope this can help. Feel free to give feedback on my solutions!
 
 
