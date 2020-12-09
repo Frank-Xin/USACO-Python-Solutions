@@ -1,3 +1,13 @@
+'''
+Problem: Moocast
+
+Source: http://www.usaco.org/index.php?page=viewproblem2&cpid=668
+
+Solution: Construct an adjacency list based on cow coordinates and power. Perform a
+depth first search starting from every node while keeping track of the amount of
+nodes visited. Return the maximum amount of nodes visited by a single node.
+'''
+
 import math
 
 #input stuff :)
